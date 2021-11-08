@@ -90,4 +90,5 @@ Most relational databases storage engines (i.e. InnoDB) have write-back cache en
 
 ## Referance
 [Usefull link](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
+
 [Video resource](https://youtu.be/ccemOqDrc2I)
